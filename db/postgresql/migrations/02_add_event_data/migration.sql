@@ -1,6 +1,4 @@
--- DropForeignKey
-ALTER TABLE "event" DROP CONSTRAINT "event_session_id_fkey";
-ALTER TABLE "event" DROP CONSTRAINT "event_website_id_fkey";
+
 
 -- RenameIndex
 ALTER INDEX "event_pkey" RENAME TO "event_old_pkey";
