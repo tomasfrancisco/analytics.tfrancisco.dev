@@ -7,7 +7,7 @@ CREATE INDEX `event_old_session_id_idx` ON `event` (session_id);
 CREATE INDEX `event_old_website_id_idx` ON `event` (website_id);
 
 -- RenameTable
-ALTER TABLE `event` RENAME TO `_event_old`;
+RENAME TABLE `event` TO `_event_old`;
 
 -- CreateTable
 CREATE TABLE `event`
