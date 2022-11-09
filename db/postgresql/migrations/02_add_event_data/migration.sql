@@ -32,12 +32,6 @@ CREATE INDEX "event_session_id_idx" ON "event"("session_id");
 -- CreateIndex
 CREATE INDEX "event_website_id_idx" ON "event"("website_id");
 
--- AddForeignKey
-ALTER TABLE "event" ADD CONSTRAINT "event_session_id_fkey" FOREIGN KEY ("session_id") REFERENCES "session"("session_id") ON DELETE CASCADE ON UPDATE CASCADE;
-
--- AddForeignKey
-ALTER TABLE "event" ADD CONSTRAINT "event_website_id_fkey" FOREIGN KEY ("website_id") REFERENCES "website"("website_id") ON DELETE CASCADE ON UPDATE CASCADE;
-
 -- CreateTable
 CREATE TABLE "event_data" (
     "event_data_id" SERIAL NOT NULL,
@@ -49,9 +43,6 @@ CREATE TABLE "event_data" (
 
 -- CreateIndex
 CREATE UNIQUE INDEX "event_data_event_id_key" ON "event_data"("event_id");
-
--- AddForeignKey
-ALTER TABLE "event_data" ADD CONSTRAINT "event_data_event_id_fkey" FOREIGN KEY ("event_id") REFERENCES "event"("event_id") ON DELETE RESTRICT ON UPDATE CASCADE;
 
 -- RenameIndex
 ALTER INDEX IF EXISTS "account.username_unique" RENAME TO "account_username_key";
