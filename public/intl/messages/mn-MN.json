@@ -1,14 +1,32 @@
 {
-  "label.accounts": [
+  "label.access-code": [
     {
       "type": 0,
-      "value": "Хэрэглэгчид"
+      "value": "Хандалтын код"
     }
   ],
-  "label.add-account": [
+  "label.actions": [
     {
       "type": 0,
-      "value": "Хэрэглэгч нэмэх"
+      "value": "Үйлдлүүд"
+    }
+  ],
+  "label.activity-log": [
+    {
+      "type": 0,
+      "value": "Үйл ажиллагааны бүртгэл"
+    }
+  ],
+  "label.add": [
+    {
+      "type": 0,
+      "value": "Add"
+    }
+  ],
+  "label.add-description": [
+    {
+      "type": 0,
+      "value": "Add description"
     }
   ],
   "label.add-website": [
@@ -17,10 +35,16 @@
       "value": "Веб нэмэх"
     }
   ],
-  "label.administrator": [
+  "label.admin": [
     {
       "type": 0,
       "value": "Админ"
+    }
+  ],
+  "label.after": [
+    {
+      "type": 0,
+      "value": "After"
     }
   ],
   "label.all": [
@@ -35,16 +59,58 @@
       "value": "Бүх цаг үеийн"
     }
   ],
-  "label.all-websites": [
+  "label.analytics": [
     {
       "type": 0,
-      "value": "Бүх вебүүд"
+      "value": "Analytics"
+    }
+  ],
+  "label.average": [
+    {
+      "type": 0,
+      "value": "Average"
+    }
+  ],
+  "label.average-visit-time": [
+    {
+      "type": 0,
+      "value": "Зочилсон дундаж хугацаа"
     }
   ],
   "label.back": [
     {
       "type": 0,
       "value": "Буцах"
+    }
+  ],
+  "label.before": [
+    {
+      "type": 0,
+      "value": "Before"
+    }
+  ],
+  "label.bounce-rate": [
+    {
+      "type": 0,
+      "value": "Нэг хуудас үзээд гарсан"
+    }
+  ],
+  "label.breakdown": [
+    {
+      "type": 0,
+      "value": "Breakdown"
+    }
+  ],
+  "label.browser": [
+    {
+      "type": 0,
+      "value": "Browser"
+    }
+  ],
+  "label.browsers": [
+    {
+      "type": 0,
+      "value": "Хөтөч"
     }
   ],
   "label.cancel": [
@@ -59,16 +125,82 @@
       "value": "Нууц үг солих"
     }
   ],
+  "label.cities": [
+    {
+      "type": 0,
+      "value": "Хотууд"
+    }
+  ],
+  "label.city": [
+    {
+      "type": 0,
+      "value": "City"
+    }
+  ],
+  "label.clear-all": [
+    {
+      "type": 0,
+      "value": "Бүгдийг арилгах"
+    }
+  ],
+  "label.confirm": [
+    {
+      "type": 0,
+      "value": "Батлах"
+    }
+  ],
   "label.confirm-password": [
     {
       "type": 0,
       "value": "Шинэ нууц үгээ давтах"
     }
   ],
-  "label.copy-to-clipboard": [
+  "label.contains": [
     {
       "type": 0,
-      "value": "Хуулах"
+      "value": "Contains"
+    }
+  ],
+  "label.continue": [
+    {
+      "type": 0,
+      "value": "Үргэлжлүүлэх"
+    }
+  ],
+  "label.countries": [
+    {
+      "type": 0,
+      "value": "Улс"
+    }
+  ],
+  "label.country": [
+    {
+      "type": 0,
+      "value": "Country"
+    }
+  ],
+  "label.create-report": [
+    {
+      "type": 0,
+      "value": "Create report"
+    }
+  ],
+  "label.create-team": [
+    {
+      "type": 0,
+      "value": "Баг үүсгэх"
+    }
+  ],
+  "label.create-user": [
+    {
+      "type": 0,
+      "value": "Хэрэглэгч үүсгэх"
+    }
+  ],
+  "label.created": [
+    {
+      "type": 0,
+      "value": "Үүсгэсэн"
     }
   ],
   "label.current-password": [
@@ -89,10 +221,28 @@
       "value": "Хянах самбар"
     }
   ],
+  "label.data": [
+    {
+      "type": 0,
+      "value": "Өгөгдөл"
+    }
+  ],
+  "label.date": [
+    {
+      "type": 0,
+      "value": "Date"
+    }
+  ],
   "label.date-range": [
     {
       "type": 0,
-      "value": "Хугацааны мужид"
+      "value": "Хугацааны муж"
+    }
+  ],
+  "label.day": [
+    {
+      "type": 0,
+      "value": "Day"
     }
   ],
   "label.default-date-range": [
@@ -107,7 +257,13 @@
       "value": "Устгах"
     }
   ],
-  "label.delete-account": [
+  "label.delete-team": [
+    {
+      "type": 0,
+      "value": "Баг устгах"
+    }
+  ],
+  "label.delete-user": [
     {
       "type": 0,
       "value": "Хэрэглэгч устгах"
@@ -119,10 +275,46 @@
       "value": "Веб устгах"
     }
   ],
+  "label.description": [
+    {
+      "type": 0,
+      "value": "Description"
+    }
+  ],
+  "label.desktop": [
+    {
+      "type": 0,
+      "value": "Суурин компьютер"
+    }
+  ],
+  "label.details": [
+    {
+      "type": 0,
+      "value": "Мэдээлэл"
+    }
+  ],
+  "label.device": [
+    {
+      "type": 0,
+      "value": "Device"
+    }
+  ],
+  "label.devices": [
+    {
+      "type": 0,
+      "value": "Төхөөрөмж"
+    }
+  ],
   "label.dismiss": [
     {
       "type": 0,
       "value": "Үл хэргэсэх"
+    }
+  ],
+  "label.does-not-contain": [
+    {
+      "type": 0,
+      "value": "Does not contain"
     }
   ],
   "label.domain": [
@@ -131,22 +323,22 @@
       "value": "Домэйн"
     }
   ],
+  "label.dropoff": [
+    {
+      "type": 0,
+      "value": "Dropoff"
+    }
+  ],
   "label.edit": [
     {
       "type": 0,
       "value": "Засах"
     }
   ],
-  "label.edit-account": [
+  "label.edit-dashboard": [
     {
       "type": 0,
-      "value": "Хэрэглэгч засах"
-    }
-  ],
-  "label.edit-website": [
-    {
-      "type": 0,
-      "value": "Веб засах"
+      "value": "Хянах самбар засах"
     }
   ],
   "label.enable-share-url": [
@@ -155,22 +347,136 @@
       "value": "Хуваалцах холбоос идэвхжүүлэх"
     }
   ],
-  "label.invalid": [
+  "label.event": [
     {
       "type": 0,
-      "value": "Буруу"
+      "value": "Event"
     }
   ],
-  "label.invalid-domain": [
+  "label.event-data": [
     {
       "type": 0,
-      "value": "Буруу домэйн"
+      "value": "Event data"
+    }
+  ],
+  "label.events": [
+    {
+      "type": 0,
+      "value": "Үйлдэл"
+    }
+  ],
+  "label.false": [
+    {
+      "type": 0,
+      "value": "False"
+    }
+  ],
+  "label.field": [
+    {
+      "type": 0,
+      "value": "Field"
+    }
+  ],
+  "label.fields": [
+    {
+      "type": 0,
+      "value": "Fields"
+    }
+  ],
+  "label.filter-combined": [
+    {
+      "type": 0,
+      "value": "Нэгтгэсэн"
+    }
+  ],
+  "label.filter-raw": [
+    {
+      "type": 0,
+      "value": "Түүхий"
+    }
+  ],
+  "label.filters": [
+    {
+      "type": 0,
+      "value": "Filters"
+    }
+  ],
+  "label.funnel": [
+    {
+      "type": 0,
+      "value": "Funnel"
+    }
+  ],
+  "label.greater-than": [
+    {
+      "type": 0,
+      "value": "Greater than"
+    }
+  ],
+  "label.greater-than-equals": [
+    {
+      "type": 0,
+      "value": "Greater than or equals"
+    }
+  ],
+  "label.insights": [
+    {
+      "type": 0,
+      "value": "Insights"
+    }
+  ],
+  "label.is": [
+    {
+      "type": 0,
+      "value": "Is"
+    }
+  ],
+  "label.is-not": [
+    {
+      "type": 0,
+      "value": "Is not"
+    }
+  ],
+  "label.is-not-set": [
+    {
+      "type": 0,
+      "value": "Is not set"
+    }
+  ],
+  "label.is-set": [
+    {
+      "type": 0,
+      "value": "Is set"
+    }
+  ],
+  "label.join": [
+    {
+      "type": 0,
+      "value": "Нэгдэх"
+    }
+  ],
+  "label.join-team": [
+    {
+      "type": 0,
+      "value": "Багт нэгдэх"
     }
   ],
   "label.language": [
     {
       "type": 0,
       "value": "Хэл"
+    }
+  ],
+  "label.languages": [
+    {
+      "type": 0,
+      "value": "Хэл"
+    }
+  ],
+  "label.laptop": [
+    {
+      "type": 0,
+      "value": "Зөөврийн компьютер"
     }
   ],
   "label.last-days": [
@@ -201,14 +507,28 @@
       "value": " цаг"
     }
   ],
-  "label.logged-in-as": [
-    {
-      "type": 1,
-      "value": "username"
-    },
+  "label.leave": [
     {
       "type": 0,
-      "value": "-р нэвтэрсэн"
+      "value": "Гарах"
+    }
+  ],
+  "label.leave-team": [
+    {
+      "type": 0,
+      "value": "Багаас гарах"
+    }
+  ],
+  "label.less-than": [
+    {
+      "type": 0,
+      "value": "Less than"
+    }
+  ],
+  "label.less-than-equals": [
+    {
+      "type": 0,
+      "value": "Less than or equals"
     }
   ],
   "label.login": [
@@ -223,10 +543,40 @@
       "value": "Гарах"
     }
   ],
+  "label.max": [
+    {
+      "type": 0,
+      "value": "Max"
+    }
+  ],
+  "label.members": [
+    {
+      "type": 0,
+      "value": "Гишүүд"
+    }
+  ],
+  "label.min": [
+    {
+      "type": 0,
+      "value": "Min"
+    }
+  ],
+  "label.mobile": [
+    {
+      "type": 0,
+      "value": "Утас"
+    }
+  ],
   "label.more": [
     {
       "type": 0,
       "value": "Цааш"
+    }
+  ],
+  "label.my-websites": [
+    {
+      "type": 0,
+      "value": "My websites"
     }
   ],
   "label.name": [
@@ -247,10 +597,58 @@
       "value": "Байхгүй"
     }
   ],
+  "label.os": [
+    {
+      "type": 0,
+      "value": "OS"
+    }
+  ],
+  "label.overview": [
+    {
+      "type": 0,
+      "value": "Overview"
+    }
+  ],
   "label.owner": [
     {
       "type": 0,
       "value": "Эзэмшигч"
+    }
+  ],
+  "label.page-of": [
+    {
+      "type": 0,
+      "value": "Page "
+    },
+    {
+      "type": 1,
+      "value": "current"
+    },
+    {
+      "type": 0,
+      "value": " of "
+    },
+    {
+      "type": 1,
+      "value": "total"
+    }
+  ],
+  "label.page-views": [
+    {
+      "type": 0,
+      "value": "Хуудас үзсэн"
+    }
+  ],
+  "label.pageTitle": [
+    {
+      "type": 0,
+      "value": "Page title"
+    }
+  ],
+  "label.pages": [
+    {
+      "type": 0,
+      "value": "Хуудас"
     }
   ],
   "label.password": [
@@ -259,10 +657,14 @@
       "value": "Нууц үг"
     }
   ],
-  "label.passwords-dont-match": [
+  "label.powered-by": [
+    {
+      "type": 1,
+      "value": "name"
+    },
     {
       "type": 0,
-      "value": "Нууц үг тохирохгүй байна"
+      "value": " дээр суурилсан"
     }
   ],
   "label.profile": [
@@ -271,22 +673,76 @@
       "value": "Бүртгэл"
     }
   ],
+  "label.queries": [
+    {
+      "type": 0,
+      "value": "Query-нүүд"
+    }
+  ],
+  "label.query": [
+    {
+      "type": 0,
+      "value": "Query"
+    }
+  ],
+  "label.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query параметр"
+    }
+  ],
   "label.realtime": [
     {
       "type": 0,
       "value": "Яг одоо"
     }
   ],
-  "label.realtime-logs": [
+  "label.referrer": [
     {
       "type": 0,
-      "value": "Бодит хугацааны бүртгэл"
+      "value": "Referrer"
+    }
+  ],
+  "label.referrers": [
+    {
+      "type": 0,
+      "value": "Чиглүүлэгч"
     }
   ],
   "label.refresh": [
     {
       "type": 0,
       "value": "Сэргээх"
+    }
+  ],
+  "label.regenerate": [
+    {
+      "type": 0,
+      "value": "Дахин үүсгэх"
+    }
+  ],
+  "label.region": [
+    {
+      "type": 0,
+      "value": "Region"
+    }
+  ],
+  "label.regions": [
+    {
+      "type": 0,
+      "value": "Бүсүүд"
+    }
+  ],
+  "label.remove": [
+    {
+      "type": 0,
+      "value": "Устгах"
+    }
+  ],
+  "label.reports": [
+    {
+      "type": 0,
+      "value": "Reports"
     }
   ],
   "label.required": [
@@ -298,7 +754,7 @@
   "label.reset": [
     {
       "type": 0,
-      "value": "Хуучин хэвд нь оруулах"
+      "value": "Дахин эхлүүлэх"
     }
   ],
   "label.reset-website": [
@@ -307,10 +763,52 @@
       "value": "Тоон үзүүлэлтийг дахин эхлүүлэх"
     }
   ],
+  "label.retention": [
+    {
+      "type": 0,
+      "value": "Retention"
+    }
+  ],
+  "label.role": [
+    {
+      "type": 0,
+      "value": "Эрх"
+    }
+  ],
+  "label.run-query": [
+    {
+      "type": 0,
+      "value": "Run query"
+    }
+  ],
   "label.save": [
     {
       "type": 0,
       "value": "Хадгалах"
+    }
+  ],
+  "label.screens": [
+    {
+      "type": 0,
+      "value": "Дэлгэц"
+    }
+  ],
+  "label.select-date": [
+    {
+      "type": 0,
+      "value": "Select date"
+    }
+  ],
+  "label.select-website": [
+    {
+      "type": 0,
+      "value": "Веб сонгох"
+    }
+  ],
+  "label.sessions": [
+    {
+      "type": 0,
+      "value": "Sessions"
     }
   ],
   "label.settings": [
@@ -329,6 +827,66 @@
     {
       "type": 0,
       "value": "Нэг өдөр"
+    }
+  ],
+  "label.sum": [
+    {
+      "type": 0,
+      "value": "Sum"
+    }
+  ],
+  "label.tablet": [
+    {
+      "type": 0,
+      "value": "Таблет"
+    }
+  ],
+  "label.team": [
+    {
+      "type": 0,
+      "value": "Баг"
+    }
+  ],
+  "label.team-guest": [
+    {
+      "type": 0,
+      "value": "Багийн зочин"
+    }
+  ],
+  "label.team-id": [
+    {
+      "type": 0,
+      "value": "Багийн ID"
+    }
+  ],
+  "label.team-member": [
+    {
+      "type": 0,
+      "value": "Багийн гишүүн"
+    }
+  ],
+  "label.team-name": [
+    {
+      "type": 0,
+      "value": "Team name"
+    }
+  ],
+  "label.team-owner": [
+    {
+      "type": 0,
+      "value": "Багийн эзэмшигч"
+    }
+  ],
+  "label.team-websites": [
+    {
+      "type": 0,
+      "value": "Team websites"
+    }
+  ],
+  "label.teams": [
+    {
+      "type": 0,
+      "value": "Багууд"
     }
   ],
   "label.theme": [
@@ -361,10 +919,34 @@
       "value": "Цагийн бүс"
     }
   ],
+  "label.title": [
+    {
+      "type": 0,
+      "value": "Гарчиг"
+    }
+  ],
   "label.today": [
     {
       "type": 0,
       "value": "Өнөөдөр"
+    }
+  ],
+  "label.toggle-charts": [
+    {
+      "type": 0,
+      "value": "Графикийг харуулах/нуух"
+    }
+  ],
+  "label.total": [
+    {
+      "type": 0,
+      "value": "Total"
+    }
+  ],
+  "label.total-records": [
+    {
+      "type": 0,
+      "value": "Total records"
     }
   ],
   "label.tracking-code": [
@@ -373,10 +955,58 @@
       "value": "Мөрдөх код"
     }
   ],
+  "label.true": [
+    {
+      "type": 0,
+      "value": "True"
+    }
+  ],
+  "label.type": [
+    {
+      "type": 0,
+      "value": "Type"
+    }
+  ],
+  "label.unique": [
+    {
+      "type": 0,
+      "value": "Unique"
+    }
+  ],
+  "label.unique-visitors": [
+    {
+      "type": 0,
+      "value": "Зочин"
+    }
+  ],
   "label.unknown": [
     {
       "type": 0,
       "value": "Тодорхойгүй"
+    }
+  ],
+  "label.untitled": [
+    {
+      "type": 0,
+      "value": "Untitled"
+    }
+  ],
+  "label.url": [
+    {
+      "type": 0,
+      "value": "URL"
+    }
+  ],
+  "label.urls": [
+    {
+      "type": 0,
+      "value": "URLs"
+    }
+  ],
+  "label.user": [
+    {
+      "type": 0,
+      "value": "Хэрэглэгч"
     }
   ],
   "label.username": [
@@ -385,16 +1015,70 @@
       "value": "Хэрэглэгчийн нэр"
     }
   ],
+  "label.users": [
+    {
+      "type": 0,
+      "value": "Хэрэглэгчид"
+    }
+  ],
+  "label.value": [
+    {
+      "type": 0,
+      "value": "Value"
+    }
+  ],
+  "label.view": [
+    {
+      "type": 0,
+      "value": "Харах"
+    }
+  ],
   "label.view-details": [
     {
       "type": 0,
       "value": "Дэлгэрүүлж харах"
     }
   ],
+  "label.view-only": [
+    {
+      "type": 0,
+      "value": "View only"
+    }
+  ],
+  "label.views": [
+    {
+      "type": 0,
+      "value": "Үзсэн"
+    }
+  ],
+  "label.visitors": [
+    {
+      "type": 0,
+      "value": "Зочин"
+    }
+  ],
+  "label.website": [
+    {
+      "type": 0,
+      "value": "Website"
+    }
+  ],
+  "label.website-id": [
+    {
+      "type": 0,
+      "value": "Вебийн ID"
+    }
+  ],
   "label.websites": [
     {
       "type": 0,
       "value": "Вебүүд"
+    }
+  ],
+  "label.window": [
+    {
+      "type": 0,
+      "value": "Window"
     }
   ],
   "label.yesterday": [
@@ -459,6 +1143,20 @@
       "value": "-г устгахдаа итгэлтэй байна уу?"
     }
   ],
+  "message.confirm-leave": [
+    {
+      "type": 0,
+      "value": "Та "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "-с гарахдаа итгэлтэй байна уу?"
+    }
+  ],
   "message.confirm-reset": [
     {
       "type": 0,
@@ -473,40 +1171,58 @@
       "value": "-н тоон үзүүлэлтүүдийг устгахдаа итгэлтэй байна уу?"
     }
   ],
-  "message.copied": [
+  "message.delete-account": [
     {
       "type": 0,
-      "value": "Хуулсан!"
-    }
-  ],
-  "message.delete-warning": [
+      "value": "To delete this account, type "
+    },
+    {
+      "type": 1,
+      "value": "confirmation"
+    },
     {
       "type": 0,
-      "value": "Үүнтэй холбоотой бүх өгөгдөл устах болно."
+      "value": " in the box below to confirm."
     }
   ],
-  "message.edit-dashboard": [
+  "message.delete-website": [
     {
       "type": 0,
-      "value": "Хянах самбар засах"
+      "value": "To delete this website, type "
+    },
+    {
+      "type": 1,
+      "value": "confirmation"
+    },
+    {
+      "type": 0,
+      "value": " in the box below to confirm."
     }
   ],
-  "message.failure": [
+  "message.delete-website-warning": [
+    {
+      "type": 0,
+      "value": "Энэ вебтэй холбоотой бүх өгөгдөл устах болно."
+    }
+  ],
+  "message.error": [
     {
       "type": 0,
       "value": "Ямар нэг зүйл буруу боллоо."
     }
   ],
-  "message.get-share-url": [
+  "message.event-log": [
+    {
+      "type": 1,
+      "value": "url"
+    },
     {
       "type": 0,
-      "value": "Хуваалцах холбоос авах"
-    }
-  ],
-  "message.get-tracking-code": [
+      "value": "-д "
+    },
     {
-      "type": 0,
-      "value": "Мөрдөх код авах"
+      "type": 1,
+      "value": "event"
     }
   ],
   "message.go-to-settings": [
@@ -521,7 +1237,171 @@
       "value": "Буруу хэрэглэгчийн нэр/нууц үг."
     }
   ],
-  "message.log.visitor": [
+  "message.invalid-domain": [
+    {
+      "type": 0,
+      "value": "Буруу домэйн"
+    }
+  ],
+  "message.min-password-length": [
+    {
+      "type": 0,
+      "value": "Хамгийн багадаа "
+    },
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " тэмдэгт"
+    }
+  ],
+  "message.new-version-available": [
+    {
+      "type": 0,
+      "value": "A new version of Umami "
+    },
+    {
+      "type": 1,
+      "value": "version"
+    },
+    {
+      "type": 0,
+      "value": " is available!"
+    }
+  ],
+  "message.no-data-available": [
+    {
+      "type": 0,
+      "value": "Өгөгдөл алга."
+    }
+  ],
+  "message.no-event-data": [
+    {
+      "type": 0,
+      "value": "No event data is available."
+    }
+  ],
+  "message.no-match-password": [
+    {
+      "type": 0,
+      "value": "Нууц үг тохирохгүй байна."
+    }
+  ],
+  "message.no-results-found": [
+    {
+      "type": 0,
+      "value": "No results were found."
+    }
+  ],
+  "message.no-team-websites": [
+    {
+      "type": 0,
+      "value": "Энэ багт ямар ч веб алга."
+    }
+  ],
+  "message.no-teams": [
+    {
+      "type": 0,
+      "value": "Та ямар ч баг үүсгээгүй байна."
+    }
+  ],
+  "message.no-users": [
+    {
+      "type": 0,
+      "value": "Хэрэглэгч байхгүй байна."
+    }
+  ],
+  "message.no-websites-configured": [
+    {
+      "type": 0,
+      "value": "Та ямар нэгэн веб тохируулаагүй байна."
+    }
+  ],
+  "message.page-not-found": [
+    {
+      "type": 0,
+      "value": "Хуудас олдсонгүй."
+    }
+  ],
+  "message.reset-website": [
+    {
+      "type": 0,
+      "value": "Тоон үзүүлэлийг дахин эхлүүлэхийн тулд доорх хэсэгт "
+    },
+    {
+      "type": 1,
+      "value": "confirmation"
+    },
+    {
+      "type": 0,
+      "value": " гэж бичиж, баталгаажуулна уу."
+    }
+  ],
+  "message.reset-website-warning": [
+    {
+      "type": 0,
+      "value": "Энэ вебийн бүх тоон үзүүлэлтүүдийг устгах болно. Гэхдээ мөрдөх код хэвэндээ үлдэнэ."
+    }
+  ],
+  "message.saved": [
+    {
+      "type": 0,
+      "value": "Хадгалсан."
+    }
+  ],
+  "message.share-url": [
+    {
+      "type": 0,
+      "value": "Таны вебийн тоон үзүүлэлтүүд доорх URL дээр нийтэд харагдах болно:"
+    }
+  ],
+  "message.team-already-member": [
+    {
+      "type": 0,
+      "value": "Та аль хэдийн энэ багийн гишүүн болсон байна."
+    }
+  ],
+  "message.team-not-found": [
+    {
+      "type": 0,
+      "value": "Баг олдсонгүй."
+    }
+  ],
+  "message.team-websites-info": [
+    {
+      "type": 0,
+      "value": "Вебийг багийн бүх гишүүд үзэж болно."
+    }
+  ],
+  "message.tracking-code": [
+    {
+      "type": 0,
+      "value": "Энэ вебийн хандалтуудыг мөрдөхийн тулд доорх кодыг HTML-нхээ "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "..."
+        }
+      ],
+      "type": 8,
+      "value": "head"
+    },
+    {
+      "type": 0,
+      "value": " хэсэгт байрлуулна уу."
+    }
+  ],
+  "message.user-deleted": [
+    {
+      "type": 0,
+      "value": "Хэрэглэгч устсан."
+    }
+  ],
+  "message.visitor-log": [
     {
       "type": 1,
       "value": "country"
@@ -553,260 +1433,6 @@
     {
       "type": 0,
       "value": " хөтөч ашиглан орсон"
-    }
-  ],
-  "message.new-version-available": [
-    {
-      "type": 0,
-      "value": "Umami-гийн шинэ хувилбар "
-    },
-    {
-      "type": 1,
-      "value": "version"
-    },
-    {
-      "type": 0,
-      "value": " гарсан байна!"
-    }
-  ],
-  "message.no-data-available": [
-    {
-      "type": 0,
-      "value": "Өгөгдөл алга."
-    }
-  ],
-  "message.no-websites-configured": [
-    {
-      "type": 0,
-      "value": "Та ямар нэгэн веб тохируулаагүй байна."
-    }
-  ],
-  "message.page-not-found": [
-    {
-      "type": 0,
-      "value": "Хуудас олдсонгүй."
-    }
-  ],
-  "message.powered-by": [
-    {
-      "type": 1,
-      "value": "name"
-    },
-    {
-      "type": 0,
-      "value": " дээр суурилсан"
-    }
-  ],
-  "message.reset-warning": [
-    {
-      "type": 0,
-      "value": "Энэ вебийн бүх тоон үзүүлэлтүүдийг устгах болно. Гэхдээ мөрдөх код хэвэндээ үлдэнэ."
-    }
-  ],
-  "message.save-success": [
-    {
-      "type": 0,
-      "value": "Амжилттай хадгаллаа."
-    }
-  ],
-  "message.share-url": [
-    {
-      "type": 1,
-      "value": "target"
-    },
-    {
-      "type": 0,
-      "value": "-г нийтэд хуваалцах холбоос."
-    }
-  ],
-  "message.toggle-charts": [
-    {
-      "type": 0,
-      "value": "Графикийг харуулах/нуух"
-    }
-  ],
-  "message.track-stats": [
-    {
-      "type": 1,
-      "value": "target"
-    },
-    {
-      "type": 0,
-      "value": " вебийн статистикийг бүртгэхийн тулд доорх кодыг вебийнхээ "
-    },
-    {
-      "type": 1,
-      "value": "head"
-    },
-    {
-      "type": 0,
-      "value": " хэсэгт байрлуулна уу."
-    }
-  ],
-  "message.type-delete": [
-    {
-      "type": 0,
-      "value": "Доорх хэсэгт "
-    },
-    {
-      "type": 1,
-      "value": "delete"
-    },
-    {
-      "type": 0,
-      "value": " гэж бичиж баталгаажуулна уу."
-    }
-  ],
-  "message.type-reset": [
-    {
-      "type": 0,
-      "value": "Доорх хэсэгт "
-    },
-    {
-      "type": 1,
-      "value": "reset"
-    },
-    {
-      "type": 0,
-      "value": " гэж бичиж баталгаажуулна уу."
-    }
-  ],
-  "metrics.actions": [
-    {
-      "type": 0,
-      "value": "Үйлдлүүд"
-    }
-  ],
-  "metrics.average-visit-time": [
-    {
-      "type": 0,
-      "value": "Зочилсон дундаж хугацаа"
-    }
-  ],
-  "metrics.bounce-rate": [
-    {
-      "type": 0,
-      "value": "Нэг хуудас үзээд гарсан"
-    }
-  ],
-  "metrics.browsers": [
-    {
-      "type": 0,
-      "value": "Хөтөч"
-    }
-  ],
-  "metrics.countries": [
-    {
-      "type": 0,
-      "value": "Улс"
-    }
-  ],
-  "metrics.device.desktop": [
-    {
-      "type": 0,
-      "value": "Суурин компьютер"
-    }
-  ],
-  "metrics.device.laptop": [
-    {
-      "type": 0,
-      "value": "Зөөврийн компьютер"
-    }
-  ],
-  "metrics.device.mobile": [
-    {
-      "type": 0,
-      "value": "Утас"
-    }
-  ],
-  "metrics.device.tablet": [
-    {
-      "type": 0,
-      "value": "Таблет"
-    }
-  ],
-  "metrics.devices": [
-    {
-      "type": 0,
-      "value": "Төхөөрөмж"
-    }
-  ],
-  "metrics.events": [
-    {
-      "type": 0,
-      "value": "Үйлдэл"
-    }
-  ],
-  "metrics.filter.combined": [
-    {
-      "type": 0,
-      "value": "Нэгтгэсэн"
-    }
-  ],
-  "metrics.filter.raw": [
-    {
-      "type": 0,
-      "value": "Түүхий"
-    }
-  ],
-  "metrics.languages": [
-    {
-      "type": 0,
-      "value": "Хэл"
-    }
-  ],
-  "metrics.operating-systems": [
-    {
-      "type": 0,
-      "value": "Үйлдлийн систем"
-    }
-  ],
-  "metrics.page-views": [
-    {
-      "type": 0,
-      "value": "Хуудас үзсэн"
-    }
-  ],
-  "metrics.pages": [
-    {
-      "type": 0,
-      "value": "Хуудас"
-    }
-  ],
-  "metrics.query-parameters": [
-    {
-      "type": 0,
-      "value": "Query параметр"
-    }
-  ],
-  "metrics.referrers": [
-    {
-      "type": 0,
-      "value": "Чиглүүлэгч"
-    }
-  ],
-  "metrics.screens": [
-    {
-      "type": 0,
-      "value": "Дэлгэц"
-    }
-  ],
-  "metrics.unique-visitors": [
-    {
-      "type": 0,
-      "value": "Зочин"
-    }
-  ],
-  "metrics.views": [
-    {
-      "type": 0,
-      "value": "Үзсэн"
-    }
-  ],
-  "metrics.visitors": [
-    {
-      "type": 0,
-      "value": "Зочин"
     }
   ]
 }
